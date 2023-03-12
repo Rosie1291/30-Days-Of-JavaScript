@@ -10,3 +10,6 @@ console.log(lastLetter) // t
 let lastIndex = string.length - 1
 console.log(lastIndex) // 9
 console.log(string[lastIndex]) // t
+
+let py = 'Python'
+console.log(string[-1] === py[2]) // comparision
